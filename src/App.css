@@ -1,38 +1,25 @@
-.App {
-  text-align: center;
+.steampunk-button {
+  padding: 0.5rem 1rem;
+  background-color: rgb(197, 197, 197);
+  border: solid 1px black;
+  border-radius: 0.25rem;
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.steampunk-button:hover {
+  background-color: #946428;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button-text {
+  color: #3182ce;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body h1,
+#to-top {
+  font-family: 'Agdasima', sans-serif;
 }
