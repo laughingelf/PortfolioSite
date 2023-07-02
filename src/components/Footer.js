@@ -16,8 +16,8 @@ function Footer() {
                 <div className="flex items-center justify-between mb-4 sm:mb-0">
                     <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="" className="hover:underline">UndergroundDev</a><br /> What's knowledge, If not distributed.</span>
                     <a href="" className="flex items-center">
-                        <span className=" mr-5 self-center text-xl sm:text-md md:text-lg font-semibold whitespace-nowrap dark:text-white underline thin flex-shrink-5">UndergroundDev</span>
-                        <img src="./img/nav-logo.png" className="h-10 mr-3 mt-1" alt="squid-logo" />
+                        <span className=" mr-2 self-center text-xl sm:text-md md:text-lg font-semibold whitespace-nowrap dark:text-white underline thin flex-shrink-5">UndergroundDev</span>
+                        <img src="./img/ugd-logo.svg" className="h-8 mr-1 mt-1" alt="ugd-logo" />
                     </a>
                 </div>
             </div>
