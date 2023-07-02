@@ -108,13 +108,13 @@ function Homepage() {
 
                 <div id="resume" className="my-4">
                     <div className="flex flex-row">
-                        <a className="mx-2" href='https://www.linkedin.com/in/justin-gery/' target="_blank">
+                        <a className="mx-2" href='https://github.com/laughingelf/' target="_blank">
                             <button className="steampunk-button flex items-center space-x-2">
                                 <img className="w-5 h-5" src="./img/svg/github-cat.svg" />
                                 <span className="button-text text-blue-500 hover:underline text-sm sm:text-base">Github</span>
                             </button>
                         </a>
-                        <a className="mx-2" href='https://github.com/laughingelf/' target="_blank">
+                        <a className="mx-2" href='https://www.linkedin.com/in/justin-gery/' target="_blank">
                             <button className="steampunk-button flex items-center space-x-2">
                                 <img className="w-5 h-5" src="./img/svg/linkedin.svg" />
                                 <span className="button-text text-blue-500 hover:underline text-sm sm:text-base">LinkedIn</span>
