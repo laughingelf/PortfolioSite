@@ -13,6 +13,13 @@ function Homepage() {
 
     const projects = [
         {
+            title: 'LevelUp-MMA',
+            description: "I am collaborating with the owner of a kid-focused karate school to bring his vision to life on the website. This preview version reflects his personality and goals, although it currently lacks live data. I will be providing web hosting services to ensure a seamless experience. Stay tuned for the live site link once it's finalized.",
+            deployedUrl: 'https://master--bright-sundae-fd8c17.netlify.app/',
+            repo: 'https://github.com/laughingelf/LevelUpMMA',
+            picSrc: './img/levelup-mma.png'
+        },
+        {
             title: 'MoviesFTP',
             description: "Introducing a movie rating app that puts you in control! With this full stack application powered by the MERN tech stack (MongoDB, Express, React, Node.js), you'll have the freedom to rate and review movies to your heart's content. The app offers complete CRUD operations, allowing you to create, read, update, and delete movie ratings effortlessly. To keep you up to date, it even leverages an external movie API, ensuring you have access to the latest releases. Think of it as your own personal IMDB-style platform, where you can share your honest opinions and recommendations with fellow movie enthusiasts. Get ready to dive into the world of movies and let your ratings do the talking!",
             deployedUrl: 'https://master--reliable-snickerdoodle-8abd38.netlify.app/auth/login',
