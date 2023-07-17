@@ -85,6 +85,7 @@ function Homepage() {
                         <img className="w-24 h-24 mx-4 my-4" src="./img/svg/github-logo.svg" alt="github-logo" />
                         <img className="w-24 h-24 mx-4 my-4" src="./img/svg/bootstrap-logo.svg" alt="bootstrap-logo" />
                         <img className="w-24 h-24 mx-4 my-4" src="./img/svg/tailwindcss-logo.svg" alt="tailwindcss-logo" />
+                        <img className="w-24 h-24 mx-4 my-4" src="./img/svg/bmc.png" alt="bmc-controlm-logo" />
                     </div>
 
                 </div>
