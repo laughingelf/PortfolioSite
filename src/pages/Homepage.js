@@ -17,7 +17,7 @@ function Homepage() {
             description: "I am collaborating with the owner of a kid-focused karate school to bring his vision to life on the website. This preview version reflects his personality and goals, although it currently lacks live data. I will be providing web hosting services to ensure a seamless experience. Stay tuned for the live site link once it's finalized.",
             deployedUrl: 'https://master--bright-sundae-fd8c17.netlify.app/',
             repo: 'https://github.com/laughingelf/LevelUpMMA',
-            picSrc: './img/levelup-mma.png'
+            picSrc: './img/levelup-logo.webp'
         },
         {
             title: 'MoviesFTP',
