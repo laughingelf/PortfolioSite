@@ -27,6 +27,13 @@ function Homepage() {
             picSrc: './img/moviesftp.png'
         },
         {
+            title: 'FactNator',
+            description: "Introducing my first React Native application, 'FactNator.' This app allows you to select a number, date, or year, and in response, FactNator will provide you with a related fact. Additionally, you have the option to receive a random fact from its extensive database. I leveraged React Native to build this application and incorporated an existing API from RapidAPI to enhance its functionality and test my knowledge. With FactNator, exploring interesting facts becomes an engaging and informative experience. ***There is not a deployed URL, both buttons will link to Github Repo***",
+            deployedUrl: 'https://github.com/laughingelf/Factnator',
+            repo: 'https://github.com/laughingelf/Factnator',
+            picSrc: './img/factNator.png'
+        },
+        {
             title: 'Tattoo Cathedral',
             description: 'I am currently in the process of building this website for a tattoo shop owner. This website is being developed using React for the frontend. I am working closely with the owner to ensure the site meets their vision and requirements. Once completed, this website will serve as the main online destination for the tattoo shop, attracting customers and showcasing their unique artistry. Stay tuned for the exciting launch of this captivating online platform.',
             deployedUrl: 'https://master--lucent-choux-709e50.netlify.app/',
